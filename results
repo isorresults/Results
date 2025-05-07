@@ -9,7 +9,9 @@
     "duration": "12 Months",
     "examDate": "MAR 17, 2017",
     "grade": "A",
-    "status": "Pass"
+    "status": "Pass",
+    "nameOfInstituteOrOrganisation": "Wealthy Rays",
+    "country": "India"
   },
   "WMOG001140322": {
     "firstName": "Rimpaldeep Kaur",
@@ -21,7 +23,9 @@
     "duration": "12 Months",
     "examDate": "MAR 17, 2022",
     "grade": "A",
-    "status": "Pass"
+    "status": "Pass",
+    "nameOfInstituteOrOrganisation": "Wealthy Rays",
+    "country": "India"
   },
   "WR2025002": {
     "firstName": "Jane",
@@ -33,6 +37,8 @@
     "duration": "12 Months",
     "examDate": "APR 10, 2025",
     "grade": "B+",
-    "status": "Pass"
+    "status": "Pass",
+    "nameOfInstituteOrOrganisation": "Global Care Academy",
+    "country": "USA"
   }
 }
