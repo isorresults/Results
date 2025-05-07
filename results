@@ -1,4 +1,5 @@
-           {
+          [ 
+          {
             "WMOG001140317": {
                 firstName: "Jaspreet Kaur",
                 lastName: "Kaler",
@@ -35,4 +36,4 @@
                 grade: "B+",
                 status: "Pass"
             }
-        };
+            ]
